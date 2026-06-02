@@ -1,16 +1,45 @@
-## Hi there 👋
+ # Hi, I'm Maimuna Ahmed 👋
 
-<!--
-**Maimunaahmed/Maimunaahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate (2025) in Computer Science & Design
 
-Here are some ideas to get you started:
+💼 Data Science Intern at Greamio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Science | Machine Learning | Deep Learning | Generative AI
+
+Passionate about building data-driven solutions and AI applications. Experienced in data analysis, machine learning, deep learning, and computer vision projects.
+
+## Skills
+
+* Python
+* SQL
+* Pandas
+* NumPy
+* Scikit-Learn
+* TensorFlow
+* Machine Learning
+* Deep Learning
+* Data Visualization
+* Statistics
+
+## Featured Projects
+
+🌿 Ayurvedic Bark Classification using MobileNet (93% Accuracy)
+
+🤖 Generative AI Customer Service Bot
+
+📈 Sales Data Analysis & Business Insights
+
+🧠 Machine Learning Prediction Models
+
+## Experience
+
+**Data Science Intern | Greamio**
+
+* Working on data preprocessing, EDA, machine learning, and AI-driven solutions.
+* Building predictive models and extracting actionable insights from data.
+
+## Connect With Me
+
+📧 (mailto: maimuna1823ahmed@gmail.com)
+
+💼 LinkedIn:
