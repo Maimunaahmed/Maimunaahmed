@@ -33,7 +33,7 @@ Passionate about building data-driven solutions and AI applications. Experienced
 
 ## Experience
 
-**Data Science Intern | Greamio**
+**Data Science Intern | Hisan Labs
 
 * Working on data preprocessing, EDA, machine learning, and AI-driven solutions.
 * Building predictive models and extracting actionable insights from data.
