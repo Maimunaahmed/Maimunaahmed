@@ -2,7 +2,7 @@
 
 🎓 B.Tech Graduate (2025) in Computer Science & Design
 
-💼 Data Science Intern at Greamio
+💼 Data Science Intern at HisanLabs
 
 📊 Data Science | Machine Learning | Deep Learning | Generative AI
 
